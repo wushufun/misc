@@ -2,7 +2,6 @@
 >some random project reports or works.
 >
 
-===
 ## Communication
 - OFDM
 - Sampling

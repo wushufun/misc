@@ -11,10 +11,10 @@
 
 * * *
 ## Math
-- [] walk statistics to random process
-- [] matrix to statistics
+- [ ] walk statistics to random process
+- [ ] matrix to statistics
 
 * * *
 ## CS
-- [] python notes
-- [] Linux cmd notes
+- [ ] python notes
+- [ ] Linux cmd notes
